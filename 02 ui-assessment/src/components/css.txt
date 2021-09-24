@@ -1,0 +1,17 @@
+main-background: #f4f4f4
+account-overview-text: #484446
+your-feefo-support-contact: #9b9898
+support-contact-icon: #f9cf03
+support-title: #484446
+mail-icon: #606060
+
+first-row-table-background: #ffffff
+upload-icon: #3eb1eb
+sales: #333333
+info-icon: #bfbbbb
+you-had: #afafaf
+0-uploads: #606060
+
+second-row: #fdfdfd
+zeroes-with-percents: #22ab55;
+uloads ands lines: #9b9898
